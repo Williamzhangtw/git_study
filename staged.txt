@@ -1,3 +1,6 @@
 -0 initilize
 
 I am in branch master, testing the merge conflict.
+
+i am in branch1, testing the merge conflict.
+
