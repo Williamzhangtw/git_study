@@ -1,3 +1,6 @@
 -0 initilize
 
 i am in branch1, testing the merge conflict.
+
+
+I am doing my stuff in branch1, my contents won't go to other branchs unless I use merge command!
