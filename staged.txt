@@ -9,3 +9,5 @@ test git ignore
 Add function A.
 
 Add function B.
+
+Add function C.
