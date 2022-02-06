@@ -6,3 +6,4 @@ i am in branch1, testing the merge conflict.
 
 test git ignore
 
+Add function A.
